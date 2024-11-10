@@ -10,6 +10,7 @@ This project is an AI generated radio station. It consists of 2 hosts having an 
 5. Make sure the suno-api server is running.
 6. Run `StartRadio.py` to start the radio. It usually takes around 15-20 seconds before the radio starts playing. As long as there is no error in the console, just be patient.
 7. Liked a song you heard? They are all stored in the `Songs` folder as well as on your Suno account.
+8. To add or remove genres, you can edit the list in the `settings.config` file.
 
 ### How it works
 The project uses llama3.2-90b to generate the conversation between the hosts. The conversation will then be converted to speech via ElevenLabs. While the hosts are talking, the project uses Suno to generate a song in the background that will then be played. While the song is playing, the next part of the conversation is generated. This loop will continue until the program is terminated.
