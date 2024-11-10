@@ -30,6 +30,7 @@ This project is a quick thrown together proof of concept. Eventhough the radio s
 
 ### Example
 [https://github.com/00Julian00/AI-radio/AIRadioExample.mp3](https://github.com/00Julian00/AI-radio/blob/main/AIRadioExample.mp3)
+
 A few notes regarding the example:
 - The male host acts like the song is about to play after it has already played. This is a glitch which I have not found a solution to, because it has nothing to do with the code logic, but is rather a hallucination of the model.
 - The hosts act like the segment is about to end. This is a bug which should be fixable with better prompting.
