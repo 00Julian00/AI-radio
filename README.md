@@ -29,7 +29,7 @@ The project itself is fully open source and therefore free. The services it uses
 This project is a quick thrown together proof of concept. Eventhough the radio station I have described here may seem very boring and annoying to listen to, in my experience it is quite the opposite. During development I have found myself listening to the radio for hours. If you want to modify the codebase, just know that it crashes from time to time and produces weird bugs, mostly due to the Suno API beeing unofficial.
 
 ### Example
-[https://github.com/00Julian00/AI-radio/AIRadioExample.mp3](https://github.com/00Julian00/AI-radio/blob/main/AIRadioExample.mp3)
+[![Listen Now](https://img.shields.io/badge/Listen-Now-orange)](https://soundcloud.com/julian-679307453/ai-radio-example-recording)
 
 A few notes regarding the example:
 - The male host acts like the song is about to play after it has already played. This is a glitch which I have not found a solution to, because it has nothing to do with the code logic, but is rather a hallucination of the model.
