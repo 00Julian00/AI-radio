@@ -1,0 +1,8 @@
+suno-api/
+
+StartServer.bat
+
+**/__pycache__/
+
+Songs/*
+!Songs/.gitkeep

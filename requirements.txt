@@ -1,0 +1,4 @@
+groq
+elevenlabs
+sounddevice
+soundfile
